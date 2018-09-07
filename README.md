@@ -22,63 +22,63 @@ Let me know which ones you like. I am going to get some of these printed in real
 
 ## Africa
 
-<img src="board1.png" width=250>
+<img src="showcase/board1.png" width=250>
 
 ## Odyssey
 
-<img src="board2.png" width=250>
+<img src="showcase/board2.png" width=250>
 
 ## Camden
 
-<img src="board3.png" width=250>
+<img src="showcase/board3.png" width=250>
 
 ## Dante
 
-<img src="board4.png" width=250>
+<img src="showcase/board4.png" width=250>
 
 ## 2049
 
-<img src="board5.png" width=250>
+<img src="showcase/board5.png" width=250>
 
 ## Blanc
 
-<img src="board6.png" width=250>
+<img src="showcase/board6.png" width=250>
 
 ## Montezuma
 
-<img src="board7.png" width=250>
+<img src="showcase/board7.png" width=250>
 
 ## Ra
 
-<img src="board8.png" width=250>
+<img src="showcase/board8.png" width=250>
 
 ## Lignite
 
-<img src="board9.png" width=250>
+<img src="showcase/board9.png" width=250>
 
 ## Dover
 
-<img src="board10.png" width=250>
+<img src="showcase/board10.png" width=250>
 
 ## Shaka
 
-<img src="board11.png" width=250>
+<img src="showcase/board11.png" width=250>
 
 ## Alaska (V1)
 
-<img src="board12.png" width=250>
+<img src="showcase/board12.png" width=250>
 
 ## Alaska (V2)
 
-<img src="board13.png" width=250>
+<img src="showcase/board13.png" width=250>
 
 ## Dorado
 
-<img src="board14.png" width=250>
+<img src="showcase/board14.png" width=250>
 
 # Forged with Love using Mantra
 
-<img src="myimage.gif" width=600>
+<img src="showcase/myimage.gif" width=600>
 
 </div>
 
