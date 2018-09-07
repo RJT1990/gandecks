@@ -1,7 +1,8 @@
-# gandecks
-AI Generated Skateboard Decks
+# GAN Decks
 
-<center>
+A showcase of GAN generated skateboard deck graphics. These graphics were generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
+
+Let me know which ones you like. I am going to get some of these printed in real life.
 
 # Meet the Decks
 
@@ -61,12 +62,9 @@ AI Generated Skateboard Decks
 
 <img src="board14.png" width=300>
 
-# Forged with Love
+# Forged with Love using Mantra
 
+<center>
+<img src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png" width=100>
 <img src="myimage.gif" width=900>
-
-
-
-
-
 </center>
