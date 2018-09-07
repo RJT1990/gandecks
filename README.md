@@ -5,6 +5,10 @@
 
 A showcase of GAN generated skateboard deck graphics. Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
 
+```console
+mantra train relativistic_gan --dataset decks --cloud --dev --image-dim 256 256
+```
+
 Let me know which ones you like. I am going to get some of these printed in real life.
 <br><br>
 <div align="center">
