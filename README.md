@@ -63,6 +63,7 @@ Let me know which ones you like. I am going to get some of these printed in real
 ## Dorado
 
 <img src="board14.png" width=300>
+</div>
 
 # Forged with Love using Mantra
 
@@ -70,4 +71,3 @@ Let me know which ones you like. I am going to get some of these printed in real
 <br>
 <img src="myimage.gif" width=600>
 
-</div>
