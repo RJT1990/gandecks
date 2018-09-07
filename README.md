@@ -78,6 +78,3 @@ mantra train relativistic_gan --dataset decks --image-dim 256 256
 
 Let me know which ones you like. I am going to get some of these printed in real life.
 <br><br>
-
-
-
