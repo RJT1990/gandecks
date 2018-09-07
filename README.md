@@ -1,8 +1,5 @@
 # GAN Decks
 
-<img src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png" width=100>
-<br>
-
 A showcase of GAN generated skateboard deck graphics. Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
 
 
@@ -79,6 +76,7 @@ Let me know which ones you like. I am going to get some of these printed in real
 # Forged with Love using Mantra
 
 <img src="showcase/myimage.gif" width=600>
+<img src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png" width=100>
 
 </div>
 
