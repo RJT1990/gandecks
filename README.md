@@ -1,3 +1,19 @@
+# GAN Decks
+
+Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
+
+```console
+mantra import https://github.com/RJT1990/gandecks
+```
+
+```console
+mantra train relativistic_gan --dataset decks --image-dim 256 256
+```
+
+Let me know which ones you like. I am going to get some of these printed in real life.
+<br><br>
+
+
 <div align="center>
             
 # Meet the Decks
@@ -66,16 +82,4 @@
 
 </div>
 
-Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
-
-```console
-mantra import https://github.com/RJT1990/gandecks
-```
-
-```console
-mantra train relativistic_gan --dataset decks --image-dim 256 256
-```
-
-Let me know which ones you like. I am going to get some of these printed in real life.
-<br><br>
 
