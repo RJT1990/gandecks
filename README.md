@@ -1,18 +1,3 @@
-<img src="showcase/board1.png" width=50><img src="showcase/board2.png" width=50>
-<img src="showcase/board3.png" width=50>
-<img src="showcase/board4.png" width=50>
-<img src="showcase/board5.png" width=50>
-<img src="showcase/board6.png" width=50>
-<img src="showcase/board7.png" width=50>
-<img src="showcase/board8.png" width=50>
-<img src="showcase/board9.png" width=50>
-<img src="showcase/board10.png" width=50>
-<img src="showcase/board11.png" width=50>
-<img src="showcase/board12.png" width=50>
-<img src="showcase/board13.png" width=50>
-<img src="showcase/board14.png" width=50>
-
-
 # GAN Decks
 
 A showcase of GAN generated skateboard deck graphics. Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
