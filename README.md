@@ -76,6 +76,7 @@ Let me know which ones you like. I am going to get some of these printed in real
 # Forged with Love using Mantra
 
 <img src="showcase/myimage.gif" width=600>
+<br>
 <img src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png" width=100>
 
 </div>
