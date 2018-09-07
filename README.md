@@ -1,6 +1,7 @@
 # GAN Decks
 
-Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
+A showcase of GAN generated skateboard deck graphics. Generated using the [Mantra deep learning framework](https://github.com/RJT1990/mantra/). 
+
 
 ```console
 mantra import https://github.com/RJT1990/gandecks
@@ -12,10 +13,8 @@ mantra train relativistic_gan --dataset decks --image-dim 256 256
 
 Let me know which ones you like. I am going to get some of these printed in real life.
 <br><br>
+<div align="center">
 
-
-<div align="center>
-            
 # Meet the Decks
 
 ## Africa
@@ -81,5 +80,3 @@ Let me know which ones you like. I am going to get some of these printed in real
 <img src="https://github.com/RJT1990/mantra/raw/master/docs/source/logo.png" width=100>
 
 </div>
-
-
